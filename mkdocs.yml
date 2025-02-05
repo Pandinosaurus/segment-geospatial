@@ -50,9 +50,33 @@ nav:
     - Report Issues: https://github.com/opengeos/segment-geospatial/issues
     - Examples:
           - examples/satellite.ipynb
-          - examples/satellite-predictor.ipynb
           - examples/automatic_mask_generator.ipynb
+          - examples/automatic_mask_generator_hq.ipynb
           - examples/input_prompts.ipynb
+          - examples/input_prompts_hq.ipynb
+          - examples/box_prompts.ipynb
+          - examples/text_prompts.ipynb
+          - examples/text_prompts_batch.ipynb
+          - examples/fast_sam.ipynb
+          - examples/swimming_pools.ipynb
+          - examples/arcgis.ipynb
+          - examples/maxar_open_data.ipynb
+          - examples/sam2_automatic.ipynb
+          - examples/sam2_predictor.ipynb
+          - examples/sam2_video.ipynb
+          - examples/sam2_box_prompts.ipynb
+          - examples/sam2_point_prompts.ipynb
+          - examples/sam2_text_prompts.ipynb
+          - examples/tree_mapping.ipynb
+    - Workshops:
+          - workshops/purdue.ipynb
+          - workshops/cn_workshop.ipynb
+          - workshops/IPPN_2024.ipynb
+          - workshops/AIforGood_2025.ipynb
     - API Reference:
           - common module: common.md
           - samgeo module: samgeo.md
+          - samgeo2 module: samgeo2.md
+          - fast_sam module: fast_sam.md
+          - hq_sam module: hq_sam.md
+          - text_sam module: text_sam.md
